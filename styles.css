@@ -41,7 +41,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #ff9800;
+    color: #4db8ff; 
 }
 
 
@@ -56,7 +56,7 @@ body {
 
 h1 {
     font-size: 2em;
-    color: #ff9800;
+    color: #4db8ff; 
     margin-bottom: 20px;
 }
 
@@ -64,7 +64,7 @@ h2 {
     font-size: 1.5em;
     margin-top: 20px;
     margin-bottom: 10px;
-    color: #ff9800;
+    color: #4db8ff; 
 }
 
 p {
@@ -82,5 +82,5 @@ li {
 
 
 strong {
-    color: #ff9800;
+    color: #4db8ff; 
 }
